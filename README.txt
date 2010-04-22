@@ -1,0 +1,1 @@
+You can use logos/logoCMYK.pdf to build a logo in the dimensions you need. Provided here are 800px wide, 300px wide, and 64px-square versions.
